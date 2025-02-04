@@ -18,6 +18,6 @@ export class AppComponent {
     }
 
     // TODO: Remove this
-    console.log("More evil stuff");
+    console.log("More evil stuff!");
   }
 }
